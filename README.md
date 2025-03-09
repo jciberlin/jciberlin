@@ -1,6 +1,6 @@
 # Hi, I am Juraj 👋
 
-## About me
+## ℹ️ About me
 
 Software Developer & Manager Network Development
 - Master's Degree, Computer Software Engineering, Faculty of Electrical Engineering, Computer Science and Information Technology Osijek
@@ -15,8 +15,6 @@ Software Developer & Manager Network Development
 
 ![Juraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jciberlin&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jciberlin&layout=compact)](https://github.com/jciberlin)
-
-## Get in touch
+## ✉️ Get in touch
 
 Connect with me on [LinkedIn](https://linkedin.com/in/juraj-ciberlin-58a976101)
